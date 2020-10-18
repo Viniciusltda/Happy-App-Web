@@ -2,7 +2,6 @@ import React from 'react';
 import {FiArrowRight} from 'react-icons/fi';
 import {Link} from 'react-router-dom';
 
-import '../styles/index.css';
 import '../styles/pages/landing-page.css';
 
 import logoImg from '../images/Logo.svg';
