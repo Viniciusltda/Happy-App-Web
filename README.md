@@ -1,4 +1,4 @@
-# ***{README EM OBRA}***
+# ***{README EM OBRA :hammer:}***
 
 <p align="center">
   <img align="center" src="https://imgur.com/5K1Vexy.png" />
@@ -18,15 +18,18 @@
 
 ---
 
-# Tabela de Conteúdos
+# :page_with_curl: Tabela de Conteúdos
 - [Demonstração do Site](https://github.com/Viniciusltda/Happy-App-Web/new/master?readme=1#demonstra%C3%A7%C3%A3o-do-site)
 - [Como Rodar na sua Máquina](https://github.com/Viniciusltda/Happy-App-Web/new/master?readme=1#como-rodar-na-sua-m%C3%A1quina)
 - [Tecnologias Usadas](https://github.com/Viniciusltda/Happy-App-Web/new/master?readme=1#tecnologias-usadas)
 - [Licença](https://github.com/Viniciusltda/Happy-App-Web/new/master?readme=1#licen%C3%A7a)
 
-# Demonstração do site
+# :beginner: Demonstração do site
 
-Esta versão do App está configurada para a cidade de Aparecida do Taboado-MS, se quiser criar orfanatos em outra cidade vá para ***__{Working on it}__***
+Esta versão do App está configurada para a cidade de Aparecida do Taboado-MS.
+
+> (Como na minha cidade não existem orfanatos, todos os orfanatos no banco de dados foram feitos só para testar a aplicação. Basicamente foram feitos na "zueira". 
+Mas o que importa é a aplicação né? :sweat_smile:)
 
 Se quiser ver a versão Mobile do App vá para este [repositório](https://github.com/Viniciusltda/Happy-App-Mobile).
 
@@ -34,15 +37,15 @@ Se quiser ver a versão Mobile do App vá para este [repositório](https://githu
 <img width="460" height="350" src="https://imgur.com/o49qQ1Y.png" /> <img width="460" height="350" src="https://imgur.com/fzykxEW.png" />
 </p>
 
-# Como Rodar na sua Máquina
+# :desktop_computer: Como Rodar na sua Máquina
 
 Este é um passo-a-passo de como você pode testar a aplicação na sua máquina.
 
-## Dependências
+## :package: Dependências
 
 Para que a aplicação funcione corretamente você irá precisar ter o [Node.js](https://nodejs.org/en/) instalado na sua máquina.
 
-## Instalando o Node.js
+## :minidisc: Instalando o Node.js
 
 Após clicar no [Link](https://nodejs.org/en/) acima, você será redirecionado para a página principal do Node.js.
 Baixe e instale a versão "LTS":
@@ -51,7 +54,7 @@ Baixe e instale a versão "LTS":
 
 Se você já tem o Node instalado, tenha certeza que ele esteja pelo menos na versão 12.0 para cima.
 
-## Clonando o Repositório
+## :printer: Clonando o Repositório
 
 Após ter instalado o Node, você precisará clonar esse [repositório](https://github.com/Viniciusltda/Happy-App-Web) para a sua máquina.
 
@@ -76,15 +79,15 @@ $ npm install
 
 ```
 
-## Instalando a API
+## :cd: Instalando a API
 
-Para que você consiga utilizar a aplicação, você precisará  baixar a API do projeto.
+Para que você consiga utilizar a aplicação, você precisará  baixar a **API** do projeto.
 
 Você pode baixá-la [Aqui](https://drive.google.com/drive/folders/1cCfjvNIUXp0mmLO3W5rk012zKFPmT4sR?usp=sharing).
 
 Coloque a pasta em um local de sua preferência (Recomendado colocar no mesmo local onde está a pasta que você copiou o repositório)
 
-Após isso instale as dependências da API:
+Após isso instale as dependências da **API**:
 ```bash
 # Entre na pasta:
 $ cd happy-server
@@ -96,11 +99,11 @@ $ yarn install
 $ npm install
 ```
 
-## Rodando a Aplicação
+## :dvd: Rodando a Aplicação
 
 Agora que você já tem tudo pronto, vamos inicializar a aplicação.
 
-Primeiro, iniciaremos a API:
+Primeiro, iniciaremos a **API**:
 
 ```bash
 # Perceba que você precisará abrir dois terminais na sua Máquina para a aplicação funcionar corretamente.
@@ -108,14 +111,14 @@ Primeiro, iniciaremos a API:
 # Primeiro, entre na pasta:
 $ cd happy-server
 
-# Inicie a API
+# Inicie a API:
 $ yarn dev
 
 # Ou, se não possuir o pacote Yarn:
 $ npm run dev
 ```
 
-A API estará rodando em http://localhost:8080.
+A **API** estará rodando em http://localhost:8080.
 
 Agora, vamos iniciar a aplicação realmente:
 
@@ -132,12 +135,12 @@ $ npm start
 
 A aplicação abrirá automáticamente em http://localhost:3000.
 
-# Tecnologias Usadas
+# :atom_symbol: Tecnologias Usadas
 
 ![Typescript](https://img.shields.io/twitter/url?label=TypeScript&logo=TypeScript&logoColor=%23007ACC&style=for-the-badge&url=https%3A%2F%2Fwww.typescriptlang.org%2F)
 ![NodeJs](https://img.shields.io/twitter/url?label=NodeJS&logo=Node.js&style=for-the-badge&url=https%3A%2F%2Fnodejs.org)
 ![React](https://img.shields.io/twitter/url?label=React&logo=React&style=for-the-badge&url=https%3A%2F%2Freactjs.org)
 
-# Licença
+# :scroll: Licença
 
 Esse repositório está sobre a Licença do [MIT](https://www.mit.edu/~amini/LICENSE.md).
