@@ -123,6 +123,8 @@ $ npm run dev
 
 A **API** estará rodando em http://localhost:8080.
 
+---
+
 Agora, vamos iniciar a aplicação realmente:
 
 ```bash
