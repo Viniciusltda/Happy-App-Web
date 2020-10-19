@@ -25,7 +25,7 @@
   - [Instalando a API](https://github.com/Viniciusltda/Happy-App-Web#cd-instalando-a-api)
   - [Rodando a aplicação](https://github.com/Viniciusltda/Happy-App-Web#dvd-rodando-a-aplica%C3%A7%C3%A3o)
 - [Tecnologias Usadas](https://github.com/Viniciusltda/Happy-App-Web#atom_symbol-tecnologias-usadas)
-- [Licença](https://github.com/Viniciusltda/Happy-App-Web#scroll-licen%C3%A7%a)
+- [Licença](https://github.com/Viniciusltda/Happy-App-Web#scroll-licença)
 
 # :beginner: Demonstração do site
 
