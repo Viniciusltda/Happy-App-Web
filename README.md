@@ -7,12 +7,7 @@
 > <p align="center">Projeto do App "Happy", um app desenvolvido para que você encontre ou crie orfanatos na sua cidade, para que você ou outras pessoas possam fazer doações. </p>
 > <p align="center">Projeto especial de Dia das Crianças. </p>
 
-<p align="center">
-  <img align="center" src="https://img.shields.io/github/repo-size/ViniciusLtda/Happy-App-Web?color=29B6D1&style=flat-square" />
-  <img align="center" src="https://img.shields.io/github/license/ViniciusLtda/Happy-App-Web?color=29B6D1&style=flat-square" />
-  <img align="center" src="https://img.shields.io/github/last-commit/ViniciusLtda/Happy-App-Web?color=29B6D1&style=flat-square" />
-  <img align="center" src="https://img.shields.io/github/stars/ViniciusLtda/Happy-App-Web?color=29B6D1&logo=GitHub&style=flat-square" />
-</p>
+![GitHub](https://img.shields.io/github/license/Viniciusltda/Happy-App-Web?color=29B6D1&style=flat-square)
 
 <p align="center"><sub>Feito com :purple_heart: durante a NLW3 com a <a target="_blanck" href="https://github.com/Rocketseat">@Rocketseat</a> </sub></p>
 
