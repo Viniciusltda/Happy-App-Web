@@ -31,8 +31,8 @@
 
 Esta versão do App está configurada para a cidade de Aparecida do Taboado-MS.
 
-> (Como na minha cidade não existem orfanatos, todos os orfanatos no banco de dados foram feitos só para testar a aplicação. Basicamente foram feitos na "zueira". 
-Mas o que importa é a aplicação né? :sweat_smile:)
+> Como na minha cidade não existem orfanatos, todos os orfanatos no banco de dados foram feitos só para testar a aplicação. Basicamente foram feitos na "zueira". 
+Mas o que importa é a aplicação né? :sweat_smile:
 
 Se quiser ver a versão Mobile do App vá para este [repositório](https://github.com/Viniciusltda/Happy-App-Mobile).
 
