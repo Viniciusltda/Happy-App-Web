@@ -1,4 +1,4 @@
-# ***{README EM OBRAS}***
+# ***{README EM OBRA}***
 
 <p align="center">
   <img align="center" src="https://imgur.com/5K1Vexy.png" />
@@ -28,8 +28,10 @@
 
 Esta versão do App está configurada para a cidade de Aparecida do Taboado-MS, se quiser criar orfanatos em outra cidade vá para ***__{Working on it}__***
 
+Se quiser ver a versão Mobile do App vá para este [repositório](https://github.com/Viniciusltda/Happy-App-Mobile).
+
 <p align="center">
-<img width="470" height="350" src="https://imgur.com/o49qQ1Y.png" /> <img width="470" height="350" src="https://imgur.com/fzykxEW.png" />
+<img width="460" height="350" src="https://imgur.com/o49qQ1Y.png" /> <img width="460" height="350" src="https://imgur.com/fzykxEW.png" />
 </p>
 
 # Como Rodar na sua Máquina
@@ -51,11 +53,11 @@ Se você já tem o Node instalado, tenha certeza que ele esteja pelo menos na ve
 
 ## Clonando o Repositório
 
-Após ter instalado o Node, você precisará clonar este [repositório](https://github.com/Viniciusltda/Happy-App-Web) para a sua máquina.
+Após ter instalado o Node, você precisará clonar esse [repositório](https://github.com/Viniciusltda/Happy-App-Web) para a sua máquina.
 
 Copie o seguinte:
 ```bash
-# Escolha uma pasta de sua escolha e digite:
+# Escolha uma pasta de sua preferência e digite:
 $ git clone https://github.com/Viniciusltda/Happy-App-Web.git 
 
 # Os "$" são meramente ilustrativos, não os copie.
@@ -64,7 +66,7 @@ $ git clone https://github.com/Viniciusltda/Happy-App-Web.git
 Após ter copiado, instale as dependências do projeto:
 ```bash
 # Se não estiver na pasta, digite:
-$ cd (Nome da sua pasta)
+$ cd Happy-App-Web
 
 # instale as dependências:
 $ yarn install
@@ -80,6 +82,62 @@ Para que você consiga utilizar a aplicação, você precisará  baixar a API do
 
 Você pode baixá-la [Aqui](https://drive.google.com/drive/folders/1cCfjvNIUXp0mmLO3W5rk012zKFPmT4sR?usp=sharing).
 
+Coloque a pasta em um local de sua preferência (Recomendado colocar no mesmo local onde está a pasta que você copiou o repositório)
+
+Após isso instale as dependências da API:
+```bash
+# Entre na pasta:
+$ cd happy-server
+
+# instale as dependências:
+$ yarn install
+
+# Ou, se não possuir o pacote Yarn:
+$ npm install
+```
+
+## Rodando a Aplicação
+
+Agora que você já tem tudo pronto, vamos inicializar a aplicação.
+
+Primeiro, iniciaremos a API:
+
+```bash
+# Perceba que você precisará abrir dois terminais na sua Máquina para a aplicação funcionar corretamente.
+
+# Primeiro, entre na pasta:
+$ cd happy-server
+
+# Inicie a API
+$ yarn dev
+
+# Ou, se não possuir o pacote Yarn:
+$ npm run dev
+```
+
+A API estará rodando em http://localhost:8080.
+
+Agora, vamos iniciar a aplicação realmente:
+
+```bash
+# Em outro terminal, entre na pasta:
+$ cd Happy-App-Web
+
+# Inicie o App:
+$ yarn start
+
+# Ou, se não possuir o pacote Yarn:
+$ npm start
+```
+
+A aplicação abrirá automáticamente em http://localhost:3000.
+
 # Tecnologias Usadas
 
+![Typescript](https://img.shields.io/twitter/url?label=TypeScript&logo=TypeScript&logoColor=%23007ACC&style=for-the-badge&url=https%3A%2F%2Fwww.typescriptlang.org%2F)
+![NodeJs](https://img.shields.io/twitter/url?label=NodeJS&logo=Node.js&style=for-the-badge&url=https%3A%2F%2Fnodejs.org)
+![React](https://img.shields.io/twitter/url?label=React&logo=React&style=for-the-badge&url=https%3A%2F%2Freactjs.org)
+
 # Licença
+
+Esse repositório está sobre a Licença do [MIT](https://www.mit.edu/~amini/LICENSE.md).
