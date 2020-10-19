@@ -7,7 +7,12 @@
 > <p align="center">Projeto do App "Happy", um app desenvolvido para que você encontre ou crie orfanatos na sua cidade, para que você ou outras pessoas possam fazer doações. </p>
 > <p align="center">Projeto especial de Dia das Crianças. </p>
 
-![GitHub](https://img.shields.io/github/license/Viniciusltda/Happy-App-Web?color=29B6D1&style=flat-square)
+<p align="center">
+  <img align="center" src="https://img.shields.io/github/repo-size/ViniciusLtda/Happy-App-Web?color=29B6D1&style=flat-square" />
+  <img align="center" src="https://img.shields.io/github/license/Viniciusltda/Happy-App-Web?color=29B6D1&style=flat-square" />
+  <img align="center" src="https://img.shields.io/github/last-commit/ViniciusLtda/Happy-App-Web?color=29B6D1&style=flat-square" />
+  <img align="center" src="https://img.shields.io/github/stars/ViniciusLtda/Happy-App-Web?color=29B6D1&logo=GitHub&style=flat-square" />
+</p>
 
 <p align="center"><sub>Feito com :purple_heart: durante a NLW3 com a <a target="_blanck" href="https://github.com/Rocketseat">@Rocketseat</a> </sub></p>
 
@@ -21,10 +26,10 @@
 
 # Demonstração do site
 
-Esta versão do App está configurada para a cidade de Aparecida do Taboado-MS, se quiser criar orfanatos em outra cidade vá para 
+Esta versão do App está configurada para a cidade de Aparecida do Taboado-MS, se quiser criar orfanatos em outra cidade vá para ***__{Working on it}__***
 
 <p align="center">
-<img width="450" height="350" src="https://imgur.com/o49qQ1Y.png" /> <img width="450" height="350" src="https://imgur.com/fzykxEW.png" />
+<img width="470" height="350" src="https://imgur.com/o49qQ1Y.png" /> <img width="470" height="350" src="https://imgur.com/fzykxEW.png" />
 </p>
 
 # Como Rodar na sua Máquina
@@ -40,7 +45,7 @@ Para que a aplicação funcione corretamente você irá precisar ter o [Node.js]
 Após clicar no [Link](https://nodejs.org/en/) acima, você será redirecionado para a página principal do Node.js.
 Baixe e instale a versão "LTS":
 
-<img width="450" height="350" src="https://imgur.com/2wGoRoL.png" />
+<img width="550" height="350" src="https://imgur.com/2wGoRoL.png" />
 
 Se você já tem o Node instalado, tenha certeza que ele esteja pelo menos na versão 12.0 para cima.
 
@@ -71,9 +76,9 @@ $ npm install
 
 ## Instalando a API
 
-Para que a aplicação funcione corretamente, você precisará  baixar a API do projeto.
+Para que você consiga utilizar a aplicação, você precisará  baixar a API do projeto.
 
-Você pode baixar ela [Aqui](/).
+Você pode baixá-la [Aqui](https://drive.google.com/drive/folders/1cCfjvNIUXp0mmLO3W5rk012zKFPmT4sR?usp=sharing).
 
 # Tecnologias Usadas
 
