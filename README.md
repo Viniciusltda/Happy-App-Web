@@ -1,5 +1,3 @@
-# ***{README EM OBRA :hammer:}***
-
 <p align="center">
   <img align="center" src="https://imgur.com/5K1Vexy.png" />
 </p>
@@ -19,10 +17,15 @@
 ---
 
 # :page_with_curl: Tabela de Conteúdos
-- [Demonstração do Site](https://github.com/Viniciusltda/Happy-App-Web/new/master?readme=1#demonstra%C3%A7%C3%A3o-do-site)
-- [Como Rodar na sua Máquina](https://github.com/Viniciusltda/Happy-App-Web/new/master?readme=1#como-rodar-na-sua-m%C3%A1quina)
-- [Tecnologias Usadas](https://github.com/Viniciusltda/Happy-App-Web/new/master?readme=1#tecnologias-usadas)
-- [Licença](https://github.com/Viniciusltda/Happy-App-Web/new/master?readme=1#licen%C3%A7a)
+- [Demonstração do Site](https://github.com/Viniciusltda/Happy-App-Web#beginner-demonstra%C3%A7%C3%A3o-do-site)
+- [Como Rodar na sua Máquina](https://github.com/Viniciusltda/Happy-App-Web#desktop_computer-como-rodar-na-sua-m%C3%A1quina)
+  - [Dependências](https://github.com/Viniciusltda/Happy-App-Web#package-depend%C3%AAncias)
+  - [Instalando o Node.js](https://github.com/Viniciusltda/Happy-App-Web#minidisc-instalando-o-nodejs)
+  - [Clonando o repositório](https://github.com/Viniciusltda/Happy-App-Web#printer-clonando-o-reposit%C3%B3rio)
+  - [Instalando a API](https://github.com/Viniciusltda/Happy-App-Web#cd-instalando-a-api)
+  - [Rodando a aplicação](https://github.com/Viniciusltda/Happy-App-Web#dvd-rodando-a-aplica%C3%A7%C3%A3o)
+- [Tecnologias Usadas](https://github.com/Viniciusltda/Happy-App-Web#atom_symbol-tecnologias-usadas)
+- [Licença](https://github.com/Viniciusltda/Happy-App-Web#scroll-licen%C3%A7%a)
 
 # :beginner: Demonstração do site
 
@@ -143,4 +146,4 @@ A aplicação abrirá automáticamente em http://localhost:3000.
 
 # :scroll: Licença
 
-Esse repositório está sobre a Licença do [MIT](https://www.mit.edu/~amini/LICENSE.md).
+Esse repositório está sobre a Licença do [MIT](https://github.com/Viniciusltda/Happy-App-Web/blob/master/LICENSE).
